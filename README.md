@@ -2,7 +2,7 @@
 
 Hindi-first, mobile-friendly website for **भगवती आयुर्वेद भवन — मवेशी दवा खाना एवं परामर्श केन्द्र**.
 
-**Live website:** https://bhagwati-pashu-seva.sharp-stoat-7178.chatgpt.site/
+**Live website:** https://bhagwati-pashu-seva.vercel.app/
 
 ## Shop address
 
@@ -45,6 +45,6 @@ Open http://localhost:4174 in a browser. Automatic video playback depends on bro
 
 ## Hosting
 
-Serve the `dist/` directory from any static web host. Keep its file structure intact so media and scripts resolve correctly.
+The site is configured for deployment on Vercel via `vercel.json` (pointing to `dist/`). You can also serve the `dist/` directory from any static web host. Keep its file structure intact so media and scripts resolve correctly.
 
 Brand names and logos belong to their respective owners.

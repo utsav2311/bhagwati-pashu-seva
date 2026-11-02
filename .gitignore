@@ -6,3 +6,5 @@ node_modules/
 *.log
 site-deployment*.tar.gz
 .openai/
+.vercel
+.env*
